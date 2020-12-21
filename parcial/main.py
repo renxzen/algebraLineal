@@ -1,4 +1,5 @@
 '''
+Regresion Lineal
 Pida el ingreso de n[8,12] y genere aleatoriamente npares ordenados. 
 El programa debemostrar gráficamente la curva que se aproxime mejor linealmente a los npares ordenados. 
 El usuario debe seleccionar el tipo de curva: polinomial(de grado 𝑚≤6), exponencial o potencial.

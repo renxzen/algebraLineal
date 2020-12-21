@@ -1,3 +1,15 @@
+'''
+Programacion Lineal
+Pida el ingreso de una función lineal de la forma f(x, y) = ax + by
+y de n inecuaciones lineales (nE[3, 8]) que formen un polígono D
+(acotado o no). El programa debe determinar el valor mínimo y
+máximo de la función sobre el conjunto D (en caso existan).
+
+# TO DO:
+- REWORK
+
+'''
+
 import tkinter as tk
 from tkinter import ttk
 
